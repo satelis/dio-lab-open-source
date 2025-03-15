@@ -4,6 +4,9 @@
     <span> Profiles README DIO</span>
 </h1>
 
+## Iniciando projetos Open-Source
+Bem vindo! Neste repositório iremos explorar as ferramentas Git e GitHub na prática, contribuindo com um projeto de código aberto.
+
 ## Sobre o Projeto
 Página desenvolvida para fins didáticos para o curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Lembre-se de que Markdown é mais voltado para a documentação e apresentação de texto formatado, enquanto a remoção de bugs normalmente envolve a compreensão detalhada do código e o uso de ferramentas de desenvolvimento adequadas à linguagem de programação específica.
 
@@ -20,6 +23,10 @@ docs/
 ├── index.html
 └── README.md
 ```
+
+## Materiais de Apoio
+[Docummentação Git](https://git-scm.com/doc)
+[Curso DIO - Projeto Open-Souce](https://web.dio.me/project/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github)
 
 ## Tecnologias
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
